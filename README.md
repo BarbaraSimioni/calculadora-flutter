@@ -22,19 +22,23 @@ Aplicativo de calculadora simples desenvolvido em Flutter. O usuário informa do
 
 ## Como Executar o Projeto
 1. Clonar o repositório:
+````bash
    git clone https://github.com/BarbaraSimioni/calculadora-flutter.git
-2. Acessar a pasta do projeto:
+````
+3. Acessar a pasta do projeto:
+````bash
    cd calculadora-flutter
-3. Instalar dependências:
+````
+4. Instalar dependências:
+````bash
   flutter pub get
-4. Rodar:
+````
+5. Rodar:
+````bash
   flutter run
+`````
 
 ### Pré-requisitos
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) instalado
 - Android Studio com um emulador configurado, ou um dispositivo Android físico com depuração USB ativada
 
-4. Execute o projeto (com um emulador aberto ou dispositivo conectado):
-```bash
-   flutter run
-```
